@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "aa8dfe97f660773a788312ca26d15f13868799a4df66c3cf106b14862a0b5df5"
+build_start_time: [1649167252, 164957046]
+build_end_time: [1649167252, 830894947]
+inputs:
+  "/Users/dawudosman/5CCS2SEG/bigGroupProject/bicycleApp/bicycle_hire_app/ios/Runner/AppDelegate.swift": [1648991396, 285974025]

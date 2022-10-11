@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "88952222936",
+    "project_id": "bicycle-hire---codebreakers",
+    "storage_bucket": "bicycle-hire---codebreakers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88952222936:android:0b2d429685a3230e4ed3ad",
+        "android_client_info": {
+          "package_name": "com.example.bicycle_hire_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88952222936-7i318v1fuflkbb98o62s3i0ir3p1rmjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCupQ6SYYc8V1W00Ficu6H8FIV1cfblupI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88952222936-7i318v1fuflkbb98o62s3i0ir3p1rmjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88952222936-m7178qeojeln4o6vvfuit40lv67345jo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bicycleHireApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
